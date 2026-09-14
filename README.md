@@ -10,5 +10,5 @@ In this exercise, you will practice three basic Linux commands:
 
 Your goal is simple:
 
-> **Find the `pass.txt` file hidden somewhere inside this directory structure and read its contents.**
+> **Find the `text` file hidden somewhere inside this directory structure and read its contents.**
 
